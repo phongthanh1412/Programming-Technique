@@ -1,0 +1,4 @@
+Trung 14_1_2004 9.5 10 10
+Phuc 29_2_2000 9 8 9.5
+Hung 13_9_2000 9.6 7.3 9.7
+Nguoi co diem trung binh cao nhat la  Trung voi diem 9.83333

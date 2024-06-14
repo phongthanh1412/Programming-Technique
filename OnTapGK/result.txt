@@ -1,0 +1,2 @@
+
+Sinh vien co diem trung binh cao nhat la  voi so diem la -1e+09
