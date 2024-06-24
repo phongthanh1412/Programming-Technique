@@ -56,7 +56,7 @@ int main() {
 	readZip(zipPath, names, N);
 	for (int i = 0; i < N; i++) {
 		cout << names[i] << endl;
-		delete names[i];
+		delete[] names[i];
 	}
 	delete names;
 	return 0;
